@@ -1,7 +1,7 @@
 React Mini-projects
 
 
-Exercise 1: Catch a game of red
+Exercise 1: Catch the red
 Write a control for a game that shows 10 squares (div element), next to each other: 9 of them in gray and the tenth in red.
 
 Next to the quarters they displayed a score for the game and a "new game" button. Each time a user clicks on a red square he gets 10 points, the red square changes places. Each time a user clicks on a gray square he loses 5 points. Each time a user clicks on "New Game" the number of points must be reset and the red square changes places.
